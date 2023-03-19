@@ -6,6 +6,7 @@ export default function App() {
     <div>
       <h1>Hello world!</h1>
       <p>I am working now</p>
+      <p>JavaScript lessons</p>
     </div>
   );
 }
