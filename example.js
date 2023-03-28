@@ -2,7 +2,7 @@ const a = +prompt('a');
 
 const data = {
   count: a,
-  likes: {},
+  likes: {}
 };
 
 console.log(data);
